@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a student in final year of a bachelor in mechatronics, between France, Switzerland and Germany !
+I am a student in first year of an Engineering Degree in Mechatronics in Strasbourg, France !
 
-- 🔭 I’m currently working on the project "Hornet Hunter": a hornet-tracking-device
-- 🌱 I’m currently learning about Camera-Gimbals, Infrared and Computer Vision.
-- 📫 How to reach me: theo.maratrey@students.fhnw.ch
+- 🔭 I’m currently working on the project "Snake": a little school project in C to consolidate fundamentals.
+- 🌱 I’m currently learning about Game Programming.
+- 📫 How to reach me: theo.maratrey@insa-strasbourg.fr
